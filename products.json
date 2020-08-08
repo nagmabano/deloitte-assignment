@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Marco",
+    "price": 899,
+    "specs": {
+      "manufacturer": "marco",
+      "color": "green"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/beige-polycotton-marco-lhs-1.jpeg",
+      "large": "assets/images/beige-polycotton-marco.jpeg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Grain",
+    "price": 899,
+    "specs": {
+      "manufacturer": "grain",
+      "color": "cream"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/beige-top-grain-1.jpeg",
+      "large": "assets/images/beige-top-grain.jpeg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "blue Polyster",
+    "price": 899,
+    "specs": {
+      "manufacturer": "blue",
+      "color": "blue"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/blue-polyester-scb-1.jpeg",
+      "large": "assets/images/blue-polyester-scbl.jpeg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "chenille",
+    "price": 899,
+    "specs": {
+      "manufacturer": "chenille",
+      "color": "cream"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/cream-chenille-nano-1.jpeg",
+      "large": "assets/images/cream-chenille-nano.jpeg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "particle",
+    "price": 450,
+    "specs": {
+      "manufacturer": "particle",
+      "color": "red"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/na-particle-board-1.jpeg",
+      "large": "assets/images/na-particle-board.jpeg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "particleA",
+    "price": 450,
+    "specs": {
+      "manufacturer": "particleA",
+      "color": "red"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/na-particle-board-1.jpeg",
+      "large": "assets/images/na-particle-board.jpeg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "particle B",
+    "price": 450,
+    "specs": {
+      "manufacturer": "particle B",
+      "color": "red"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/na-particle-board-1.jpeg",
+      "large": "assets/images/na-particle-board.jpeg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "particle C",
+    "price": 450,
+    "specs": {
+      "manufacturer": "particle C",
+      "color": "red"
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "rating": 4,
+    "image": {
+      "small": "assets/images/na-particle-board-1.jpeg",
+      "large": "assets/images/na-particle-board.jpeg"
+    }
+  }
+]
